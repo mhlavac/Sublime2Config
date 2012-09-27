@@ -1,0 +1,21 @@
+{
+	"auto_upgrade_last_run": 1348682886,
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"CoffeeScript Function Finder",
+		"Compass",
+		"Git",
+		"INI",
+		"Package Control",
+		"PHP-Twig",
+		"PhpDoc",
+		"PhpDox",
+		"PHPUnit",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Symfony2 Snippets"
+	]
+}
